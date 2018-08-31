@@ -391,7 +391,7 @@ nav.detached {
     box-sizing: border-box; }
 @media screen and (max-width: 440px) {
     .project-container .project-details {
-        height: 140px;
+        height: 180px;
         padding: 20px; } }
 .project-container .project-details .metadata {
     font-family: "Source Sans Pro", sans-serif;
